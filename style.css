@@ -1,0 +1,118 @@
+*{
+  margin: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+  border: border-box;
+}
+.profile{
+  height: 140px;
+  width: 900px;
+  border: transparent;
+  padding: 60px;
+  margin-right: 50px;
+  margin-left: 8%;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.photo{
+  background-color: rgb(233, 229, 229);
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 1px solid rgb(219, 213, 213);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.dp{
+  height: 135px;
+  width: 135px;
+  border-radius: 50%;
+}
+h5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.details{
+  height:115px;
+  width: 400px;
+  border: transparent;
+  margin-right: 50px;
+  margin-left: 7%;
+  
+}
+.git{
+  padding-bottom: 10%;
+  margin-left: 10%;
+}
+.heroes{
+  height: 200px;
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  white-space: normal;
+}
+.box{
+  height: 130px;
+  width: 500px;
+  border: 2px solid black;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  padding-right: 5px;
+  display: inline-block;
+}
+.btn{
+ height: 25px;
+ width: 80px;
+ background-color:rgb(65,139,202,255);
+ color: white;
+ border-radius: 3px;
+ border: transparent;
+ margin-left: 5px;
+ margin-right: 10px;
+}
+.box-paragraph{
+  font-weight: 600;
+  margin-left: 5px;
+}
+h3{
+  color:rgb(65,139,202,255);
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.page-number{
+  margin-left: 40%;
+  /* height: 5px;
+  width: 4px; */
+  color:rgb(65,139,202,255);
+  display: inline
+}
+.old-new{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+ 
+}
+.on{
+  height: 30px;
+  width: 70px;
+  background-color: white;
+  color: rgb(65,139,202,255);
+  border: 1.25px solid black;
+  border-radius: 42%;
+  margin-top: 15px;
+  margin-bottom: 25px;
+  margin-right: 40px;
+  margin-left: 80px;
+}
+.number{
+  color: rgba(65,139,202,255);
+  /* height: 10px;
+  width: 9px; */
+  border: .75px solid black;
+  padding: 5px;
+}
